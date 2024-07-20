@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pol Escolano</h1>
-<h3 align="center">A passionate Software developer playing with Data, and my main Goal is to become a IA developer</h3>
+<h3 align="center">A passionate Software developer playing with Data</h3>
 
 - 🔭 I’m currently working on **DatPool as a Data Analyst**
 
